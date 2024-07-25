@@ -394,6 +394,10 @@ nav img {
 
 
 @media screen and (max-width: 1160px) {
+    body{
+        overflow-x: hidden;
+    }
+    
     .first {
         flex-wrap: wrap;
     }
